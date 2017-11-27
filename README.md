@@ -1,5 +1,11 @@
 # Computer Graphics
 
+### Project 1: Blender
+<img src="./Project1/Project1_A00815260.png" style="width: 300px;"/>
+
+### Project 2: POV Ray
+<img src="./Project2/Project2_A00815260.png" style="width: 300px;"/>
+
 ### HW 1: Blender
 <img src="./HW1/HW1_A00815260.png" style="width: 300px;"/>
 
@@ -28,11 +34,7 @@
 <img src="./HW9/HW9_A00815260.png" style="width: 300px;"/>
 
 ### HW 10: OpenGL
-<img src="./HW10/HW10_1_A00815260.png" style="width: 300px;"/>
-<img src="./HW10/HW10_2_A00815260.png" style="width: 300px;"/>
-<img src="./HW10/HW10_3_A00815260.png" style="width: 300px;"/>
-<img src="./HW10/HW10_4_A00815260.png" style="width: 300px;"/>
+<img src="./HW10/HW10_A00815260.png" style="width: 300px;"/>
 
 ### HW 11: OpenGL
-<img src="./HW11/HW11_1_A00815260.png" style="width: 300px;"/>
-<img src="./HW11/HW11_2_A00815260.png" style="width: 300px;"/>
+<img src="./HW11/HW11_A00815260.png" style="width: 300px;"/>
