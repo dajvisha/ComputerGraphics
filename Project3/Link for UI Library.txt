@@ -1,0 +1,2 @@
+Tutorial for setting up library for UI:
+https://masdel.wordpress.com/2010/10/21/installing-glui-using-codeblocks-on-windows/
