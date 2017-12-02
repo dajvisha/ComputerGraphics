@@ -6,6 +6,9 @@
 ### Project 2: POV Ray
 <img src="./Project2/Project2_A00815260.png" style="width: 300px;"/>
 
+### Project 3: OpenGL
+<img src="./Project3/Project3_A00815260.png" style="width: 300px;"/>
+
 ### HW 1: Blender
 <img src="./HW1/HW1_A00815260.png" style="width: 300px;"/>
 
